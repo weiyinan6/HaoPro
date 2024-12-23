@@ -1,0 +1,55 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Narrative.1.cpp.obj": [
+			"Dialogue.gen.cpp.obj",
+			"DialogueAsset.gen.cpp.obj",
+			"DialogueBlueprintGeneratedClass.gen.cpp.obj",
+			"DialogueSM.gen.cpp.obj",
+			"Narrative.init.gen.cpp.obj",
+			"NarrativeComponent.gen.cpp.obj"
+		],
+		"Module.Narrative.2.cpp.obj": [
+			"NarrativeCondition.gen.cpp.obj",
+			"NarrativeDataTask.gen.cpp.obj",
+			"NarrativeDefaultCinecam.gen.cpp.obj",
+			"NarrativeDialogueSequence.gen.cpp.obj",
+			"NarrativeDialogueSettings.gen.cpp.obj",
+			"NarrativeEvent.gen.cpp.obj",
+			"NarrativeFunctionLibrary.gen.cpp.obj",
+			"NarrativeNodeBase.gen.cpp.obj",
+			"NarrativePartyComponent.gen.cpp.obj",
+			"NarrativeQuestSettings.gen.cpp.obj",
+			"NarrativeSaveGame.gen.cpp.obj",
+			"NarrativeTaskManager.gen.cpp.obj",
+			"Quest.gen.cpp.obj"
+		],
+		"Module.Narrative.3.cpp.obj": [
+			"QuestBlueprintGeneratedClass.gen.cpp.obj",
+			"QuestSM.gen.cpp.obj",
+			"QuestTask.gen.cpp.obj",
+			"Dialogue.cpp.obj",
+			"DialogueAsset.cpp.obj",
+			"DialogueBlueprintGeneratedClass.cpp.obj",
+			"DialogueSM.cpp.obj",
+			"Narrative.cpp.obj",
+			"NarrativeComponent.cpp.obj",
+			"NarrativeCondition.cpp.obj",
+			"NarrativeDataTask.cpp.obj",
+			"NarrativeDefaultCinecam.cpp.obj",
+			"NarrativeDialogueSequence.cpp.obj",
+			"NarrativeDialogueSettings.cpp.obj",
+			"NarrativeEvent.cpp.obj",
+			"NarrativeFunctionLibrary.cpp.obj",
+			"NarrativeNodeBase.cpp.obj",
+			"NarrativePartyComponent.cpp.obj",
+			"NarrativeQuestSettings.cpp.obj",
+			"NarrativeSaveGame.cpp.obj",
+			"NarrativeTaskManager.cpp.obj",
+			"Quest.cpp.obj",
+			"QuestBlueprintGeneratedClass.cpp.obj",
+			"QuestSM.cpp.obj",
+			"QuestTask.cpp.obj"
+		]
+	}
+}

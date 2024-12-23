@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\epic\\Unreal projects\\HaoPro\\Content\\Narrative\\HostProject\\Plugins\\Narrative\\Source\\NarrativeDialogueEditor\\NarrativeDialogueEditor.Build.cs",
+		"F:\\epic\\Unreal projects\\HaoPro\\Content\\Narrative\\HostProject\\Plugins\\Narrative\\Source\\NarrativeQuestEditor\\NarrativeQuestEditor.Build.cs",
+		"F:\\epic\\Unreal projects\\HaoPro\\Content\\Narrative\\HostProject\\Plugins\\Narrative\\Source\\Narrative\\Narrative.Build.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,9 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"Narrative": "UnrealEditor-Narrative.dylib",
+		"NarrativeDialogueEditor": "UnrealEditor-NarrativeDialogueEditor.dylib",
+		"NarrativeQuestEditor": "UnrealEditor-NarrativeQuestEditor.dylib"
+	}
+}

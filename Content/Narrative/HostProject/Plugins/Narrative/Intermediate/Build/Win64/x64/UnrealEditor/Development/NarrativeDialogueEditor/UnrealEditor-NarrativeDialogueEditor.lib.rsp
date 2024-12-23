@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NarrativeDialogueEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\NarrativeDialogueEditor\Module.NarrativeDialogueEditor.cpp.obj"
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\NarrativeDialogueEditor\Default.rc2.res"
+/OUT:"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\NarrativeDialogueEditor\UnrealEditor-NarrativeDialogueEditor.lib"

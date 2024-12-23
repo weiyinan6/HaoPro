@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Narrative.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\Narrative\Module.Narrative.1.cpp.obj"
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\Narrative\Module.Narrative.2.cpp.obj"
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\Narrative\Module.Narrative.3.cpp.obj"
+"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\Narrative\Default.rc2.res"
+/OUT:"F:\epic\Unreal projects\HaoPro\Content\Narrative\HostProject\Plugins\Narrative\Intermediate\Build\Win64\x64\UnrealEditor\Development\Narrative\UnrealEditor-Narrative.lib"
