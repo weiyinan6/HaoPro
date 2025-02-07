@@ -1,0 +1,48 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.5",
+	"FriendlyName": "Narrative Common UI",
+	"Description": "Powers all the UI elements that ships with the various Narrative tools.",
+	"Category": "Narrative",
+	"CreatedBy": "Narrative Tools, Inc.",
+	"CreatedByURL": "narrativetools.io",
+	"DocsURL": "https://docs.google.com/document/d/13lofD4cZqTpeGOM5x4HSKHWRx7ptJbav4FEnCMBbzQU/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f1adaffd049b44cca254832b2beeb1b7",
+	"SupportURL": "mailto:contact@reubs.io",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "NarrativeCommonUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"Mac",
+				"IOS"
+			]
+		},
+		{
+			"Name": "NarrativeCommonUIEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"Mac",
+				"IOS"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		}
+	]
+}
